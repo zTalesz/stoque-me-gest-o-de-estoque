@@ -112,23 +112,6 @@ PIM_3/
 └── PimBanco.db
 ```
 
-## 🖼️ Screenshots
-
-### Login
-
-*(Inserir imagem)*
-
-### Dashboard
-
-*(Inserir imagem)*
-
-### Estoque
-
-*(Inserir imagem)*
-
-### Relatórios
-
-*(Inserir imagem)*
 
 ---
 
